@@ -13,6 +13,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 == Description ==
 
 24liveblog is a simple, functional, powerful and FREE live blogging tool. 24liveblog is the easiest way to live blogging. It is free to use and works with any type of website
+Website : http://www.24liveblog.com
 
 1. Real-time Live Blogging.
 2. Unlimited SEO friendly Embedding.
