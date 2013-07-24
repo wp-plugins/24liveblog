@@ -8,7 +8,7 @@ Tested up to: 3.5.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-24liveblog  is a live blogging tool. No Ads. No Overages. No Limits. Free and easy to use for Wordpress
+24liveblog is a live blogging tool. No Ads. No Overages. No Viewer Limits. Free and easy to use for live blog.
 
 == Description ==
 
@@ -28,10 +28,10 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 24liveblog is designed to be easy for both blogger and readers. A new way for real time contents delivery.
 
 2. Mobile Ready<br>
-You can access the live contents from any major OS, mobile device, browser
+You can access the live contents from any major OS, mobile device, browser.
 
 3. SEO Optimized<br> 
-Our technology make you contents embed in your page. which help you get the best search engine optimization
+Our technology make you contents embed in your page. which help you get the best search engine optimization.
 
 4. Self-Adapted UI Look<br>
 Adapts to your site’s look and feel, No custom CSS.
@@ -49,7 +49,7 @@ We will not place any Ads or big brand logo in your contents page to give a perf
 To share the real-time contents to other social platform easily.
 
 9. Multi-Langagues Support<br>
-We support English ,Japanese(日本語) and Chinese(中文简体) now. Expending to more languages
+We support English ,Japanese(日本語) and Chinese(中文简体) now. Expanding to more languages.
 
 = Contact US = 
 > If you have any question, please feel free to contact http://www.24liveblog.com/contact  <br>
