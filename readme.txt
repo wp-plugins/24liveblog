@@ -1,4 +1,4 @@
-﻿=== 24liveblog ===
+﻿=== 24liveblog - live blogging tool ===
 Contributors: 24liveblog
 Donate link: http://www.24liveblog.com/
 Tags: liveblog, live blogging, live blog, real time blog, ream-time, live coverage, blogging, event, broadcast, live, streaming
