@@ -13,14 +13,13 @@ function u24liveblog_admin() {
   include('u24liveblog_plugin_admin.php');
 }
 
-// 添加一级菜单及子菜单
 function u24liveblog_add_pages() {
 add_object_page(
 				'24LiveBlog',
 				'24LiveBlog',
 				'manage_options',
-				'u24liveblog_setting', // 访问的页面
-				'u24liveblog_admin', // 绑定的函数
+				'u24liveblog_setting', 
+				'u24liveblog_admin', 
 				plugin_dir_url(__FILE__) . 'images/u24liveblog_plug_log.png' 
 			);
 }
