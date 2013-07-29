@@ -5,6 +5,7 @@
 </div>
 <?php
 define('U24LIVEBLOG_SOURCE','../wp-content/plugins/24liveblog');
+
 wp_enqueue_script('jquery');
 ?>
 <script>

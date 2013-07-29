@@ -1,9 +1,9 @@
 ﻿=== 24liveblog - live blogging tool ===
 Contributors: 24liveblog
 Donate link: http://www.24liveblog.com/
-Tags: liveblog, live blogging, live blog, real time blog, ream-time, live coverage, blogging, event, broadcast, live, streaming
+Tags: liveblog, live blogging, live blog, blog, ream time, live coverage, blogging, liveblogging, broadcast, live, streaming
 Requires at least: 3.0.1
-Stable tag: 1.0
+Stable tag: 1.1
 Tested up to: 3.5.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -87,14 +87,23 @@ We will not delete any user data. The data will be stored forever in our server.
 1. Online Demo
 2. Overview
 3. Dashboard
-4. Add news
-5. Event management
-6. real-time statistics
+4. Add News
+5. Event Management
+6. Real-time Statistics
 
 
 == Changelog ==
+= 1.1 =
+1. Support more languages in Liveblog widget (Auto-Detection)
+   - English, Japanese, German, French, Chinese, Spanish, Russian
+2. New Features:
+   - Mini news add window
+   - Attachment upload : pdf, doc/docx, xls/xlsx, ppt/pptx, zip, rar (~16m)
+3. Mobile UI Optimizated
+4. Bug fixed
+
 = 1.0 =
 First Release
 
 == Upgrade Notice == 
-Welcome to use 24liveblog --- We are working on make better live blogging experience for you.
+Welcome to 24liveblog --- We are working on make a better live blogging experience for you.

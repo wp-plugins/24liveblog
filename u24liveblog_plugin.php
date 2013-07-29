@@ -2,9 +2,9 @@
 /*
 Plugin Name: 24liveblog
 Plugin URI: http://wordpress.org/extend/plugins/24liveblog
-Description: 24liveblog is a simple, functional, powerful and FREE live blogging tool. 24liveblog is the easiest way to live blogging. It&#039;s free to use and works with any type of website
+Description: 24liveblog is a simple, functional, powerful and FREE live blogging tool. 24liveblog is the easiest way to live blogging. It's free to use and works with any type of website
 Author: 24liveblog
-Version: 1.0
+Version: 1.1
 Author URI: http://www.24liveblog.com/
 */
 $domain = $_SERVER['HTTP_HOST'];
@@ -30,6 +30,5 @@ function load_external_jQuery() { // load external file
     wp_enqueue_script('jquery');
 }  
 add_action('wp_enqueue_scripts', 'load_external_jQuery');
-
 
 ?>
