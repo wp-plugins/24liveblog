@@ -4,7 +4,7 @@ Donate link: http://www.24liveblog.com/
 Tags: liveblog, live blogging, live blog, blog, ream time, live coverage, blogging, liveblogging, broadcast, live, streaming
 Requires at least: 3.0
 Stable tag: 1.1
-Tested up to: 3.6
+Tested up to: 3.7
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
