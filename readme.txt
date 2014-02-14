@@ -23,6 +23,7 @@ Website : http://www.24liveblog.com
 6. Real-time statistics
 7. Content Sharing/ Syndication
 8. Mobile ready
+9. Multi-editor supported
 
 = Features =
 1. Live Blogging<br>
@@ -50,7 +51,7 @@ We will not place any Ads or big brand logo in your contents page to give a perf
 To share the real-time contents to other social platform easily.
 
 9. Multi-Langagues Support<br>
-We support English ,Japanese(日本語) and Chinese(中文简体) now. Expanding to more languages.
+Multi editors can work together to live blogging.
 
 = Contact US = 
 > If you have any question, please feel free to contact http://www.24liveblog.com/contact  <br>
