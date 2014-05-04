@@ -24,6 +24,7 @@ Website : http://www.24liveblog.com
 7. Content Sharing/ Syndication
 8. Mobile ready
 9. Multi-editor supported
+10. Live Comments
 
 = Features =
 1. Live Blogging<br>
