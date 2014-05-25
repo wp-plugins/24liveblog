@@ -1,6 +1,6 @@
 <div id="stepTwoWrapper" style="margin-left:-20px; margin-top:2px;"></div>
 <?php
-$adminUrl = 'http://adminwp.24liveblog.com'; 
+$adminUrl = '//adminwp.24liveblog.com'; 
 ?>
 <iframe id="liveblog-remote-window" src="<?php echo $adminUrl;?>" style="width:100%;"></iframe>
 
