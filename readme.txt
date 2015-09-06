@@ -4,7 +4,7 @@ Donate link: http://www.24liveblog.com/
 Tags: liveblog, live blogging, live blog, blog, ream time, live coverage, blogging, liveblogging, broadcast, live, streaming
 Requires at least: 3.0
 Stable tag: 1.1
-Tested up to: 4.2
+Tested up to: 4.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -96,13 +96,10 @@ We will not delete any user data. The data will be stored forever in our server.
 
 == Changelog ==
 = 1.1 =
-1. Support more languages in Liveblog widget (Auto-Detection)
-   - English, Japanese, German, French, Chinese, Spanish, Russian
-2. New Features:
-   - Mini news add window
-   - Attachment upload : pdf, doc/docx, xls/xlsx, ppt/pptx, zip, rar (~16m)
-3. Mobile UI Optimizated
-4. Bug fixed
+1. Mobile UI Optimizated
+2. Live Comments
+3. Mulit-Contributors
+4. Performance Improvement
 
 = 1.0 =
 First Release
